@@ -1,6 +1,6 @@
-# 目录
+# Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [第1章 集合与函数](chapter1.md)
 * [第2章 实数](chapter2.md)
 * [第3章 极限](chapter3.md)
