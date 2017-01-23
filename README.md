@@ -1,4 +1,4 @@
-# 简介
-
-B.A.Zorich《数学分析》的读书笔记。
+# 参考书目
+- Notes on W.Rudin _Principle of Mathematical Analysis_
+- B.A.Zorich _Mathematical Analysis_
 
