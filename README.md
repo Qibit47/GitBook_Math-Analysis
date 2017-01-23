@@ -1,4 +1,4 @@
 # 参考书目
-- Notes on W.Rudin _Principle of Mathematical Analysis_
-- B.A.Zorich _Mathematical Analysis_
+- Notes on W.Rudin *Principle of Mathematical Analysis*
+- B.A.Zorich *Mathematical Analysis*
 
