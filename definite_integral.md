@@ -6,8 +6,8 @@
 - $$S_n = \sum _{i=1}^n {f(\xi _i) \Delta x_i}$$ 称为 **Riemann 和**
 	- 要求 Riemann 和的极限值与划分及代表点的取法无关
 - 对区间 $$[a,b]$$ 的划分 $$P$$ ，对应的
-	- Darboux 上和为： $$U(f;P) \equiv U_{[a,b]} (f,P) = \sum_{j=1}^n sup_\limits{x \in [x_{j-1}, x_j]} f(x)(x_j - x_{j-1})$$
-	- Darboux 下和为： $$L(f;P) \equiv L_{[a,b]} (f,P) = \sum_{j=1}^n inf_\limits{x \in [x_{j-1}, x_j]} f(x)(x_j - x_{j-1})$$
+	- Darboux 上和为： $$U(f;P) \equiv U_{[a,b]}(f,P) = \sum_{j=1}^n sup_{x \in [x_{j-1}, x_j]} f(x)(x_j - x_{j-1})$$
+	- Darboux 下和为： $$L(f;P) \equiv L_{[a,b]} (f,P) = \sum_{j=1}^n inf_{x \in [x_{j-1}, x_j]} f(x)(x_j - x_{j-1})$$
 - 好处
 	1. 消除了代表点的任意性
 	2. **Darboux 上和与下和的极限一定存在**
